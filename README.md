@@ -1,19 +1,26 @@
 # 教材词汇自动化视频 Skill
 
+## 视频示例
 
-https://github.com/user-attachments/assets/738823ac-ccd3-4cad-bf2a-104fb5cb4afb
-
-
-
-https://github.com/user-attachments/assets/6a4034a2-743d-4317-a3d5-e63e0c0b72a9
-
-
-
-https://github.com/user-attachments/assets/c9087246-8c34-4dba-ab98-bc3f175a92c4
-
-
-
-
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <video src="https://github.com/user-attachments/assets/738823ac-ccd3-4cad-bf2a-104fb5cb4afb" width="240" controls preload="metadata"></video>
+      <br>
+      <a href="https://github.com/user-attachments/assets/738823ac-ccd3-4cad-bf2a-104fb5cb4afb">打开视频 1</a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <video src="https://github.com/user-attachments/assets/6a4034a2-743d-4317-a3d5-e63e0c0b72a9" width="240" controls preload="metadata"></video>
+      <br>
+      <a href="https://github.com/user-attachments/assets/6a4034a2-743d-4317-a3d5-e63e0c0b72a9">打开视频 2</a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <video src="https://github.com/user-attachments/assets/c9087246-8c34-4dba-ab98-bc3f175a92c4" width="240" controls preload="metadata"></video>
+      <br>
+      <a href="https://github.com/user-attachments/assets/c9087246-8c34-4dba-ab98-bc3f175a92c4">打开视频 3</a>
+    </td>
+  </tr>
+</table>
 
 将教材词汇分期规划制作成 9:16 Remotion 视频，含中英配音、字幕、三秒小测和视频号文案。来自已经实际交付的 Unit 1 / Unit 2 词汇流程；不包含教材、密钥、成片或付费音频。
 
