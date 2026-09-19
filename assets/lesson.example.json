@@ -1,0 +1,264 @@
+{
+  "id": "EP21",
+  "slug": "u2-21-presentation",
+  "unitId": "unit02",
+  "templateId": "vocabulary-microcourse-v1",
+  "unitLabel": "七上英语 · Unit 2",
+  "seriesLabel": "重点词汇精讲",
+  "title": "presentation：不只是幻灯片",
+  "word": "presentation",
+  "ipa": "/ˌpreznˈteɪʃn/",
+  "meanings": [
+    {
+      "pos": "n.",
+      "text": "演示；展示汇报"
+    }
+  ],
+  "family": [
+    {
+      "word": "presentations",
+      "pos": "n.",
+      "meaning": "复数形式",
+      "base": "presentation",
+      "change": "s",
+      "placement": "suffix"
+    },
+    {
+      "word": "present",
+      "pos": "v.",
+      "meaning": "展示（词族拓展）",
+      "base": "present",
+      "change": "",
+      "placement": "suffix"
+    }
+  ],
+  "familyMode": "categories",
+  "collocation": {
+    "parts": [
+      "give",
+      "a presentation"
+    ],
+    "meaning": "做一次展示汇报",
+    "note": "a presentation on ... · 关于……的汇报"
+  },
+  "example": {
+    "en": "Our group gives a presentation on healthy school lunches.",
+    "zh": "我们小组做了一次关于健康校园午餐的展示汇报。",
+    "highlight": [
+      "gives",
+      "presentation",
+      "on"
+    ]
+  },
+  "hook": [
+    "有了幻灯片，",
+    "就算汇报了吗？"
+  ],
+  "memoryText": [
+    "边展示，边向同学讲解",
+    "理解词汇 · 不只是一份幻灯片"
+  ],
+  "exam": {
+    "title": "展示汇报，不只是幻灯片",
+    "items": [
+      {
+        "word": "give a presentation",
+        "label": "向他人展示、讲解"
+      },
+      {
+        "word": "on school lunches",
+        "label": "关于学校午餐：说明主题"
+      }
+    ],
+    "note": "本单元为理解词汇，不设派生词拼写题"
+  },
+  "quiz": {
+    "question": "give a presentation 的意思是？",
+    "options": [
+      "赠送一个礼物",
+      "收拾书包",
+      "做一次展示汇报"
+    ],
+    "answer": 2,
+    "explanation": "这里表示做一次展示汇报。"
+  },
+  "next": "mood",
+  "nextLabel": "下一期 · EP22",
+  "image": "assets/u2-presentation-classroom.png",
+  "imageFit": "contain",
+  "flexContent": true,
+  "source": {
+    "file": "user-supplied-unit2.pptx",
+    "slide": 23,
+    "textbook": "上海教育出版社七年级上册（2024新版）",
+    "reference": "用户应核对教材页码",
+    "covers": [
+      "presentation"
+    ]
+  },
+  "understandingOnly": [
+    "presentation"
+  ],
+  "needsReview": true,
+  "review": {
+    "status": "pending",
+    "notes": [
+      "核对用户提供的教材后再填写实际审核记录。"
+    ]
+  },
+  "styleApproval": {
+    "reference": ""
+  },
+  "metadata": {
+    "title": "presentation：不只是幻灯片｜七上英语 Unit 2",
+    "description": "presentation 不只是一份幻灯片，还可以包含向他人讲解、展示的过程。跟读 give a presentation，用健康校园午餐的例句理解“做展示汇报”。这是教材理解词汇，词族只作拓展。结尾3秒小测，先想再答。",
+    "hashtags": [
+      "七年级英语",
+      "沪教牛津英语",
+      "英语词汇",
+      "初中英语",
+      "Unit2"
+    ]
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "label": "先想一想",
+      "minDuration": 3,
+      "voice": [
+        {
+          "lang": "zh",
+          "text": "有了幻灯片，就算完成汇报了吗？"
+        }
+      ]
+    },
+    {
+      "id": "word",
+      "label": "跟读单词",
+      "minDuration": 5,
+      "voice": [
+        {
+          "lang": "en",
+          "text": "presentation",
+          "rate": 0
+        },
+        {
+          "lang": "en",
+          "text": "presentation",
+          "rate": -20
+        },
+        {
+          "lang": "zh",
+          "text": "名词，演示，展示汇报。"
+        }
+      ]
+    },
+    {
+      "id": "memory",
+      "label": "情景记忆",
+      "minDuration": 4,
+      "voice": [
+        {
+          "lang": "zh",
+          "text": "站到展示板前，向同学讲解小组的调查结果。"
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "label": "词汇拓展",
+      "minDuration": 7,
+      "voice": [
+        {
+          "lang": "en",
+          "text": "presentations",
+          "reveal": 0
+        },
+        {
+          "lang": "zh",
+          "text": "这是复数。"
+        },
+        {
+          "lang": "en",
+          "text": "present our work",
+          "reveal": 1
+        },
+        {
+          "lang": "zh",
+          "text": "作动词，表示展示，作为词族拓展。"
+        }
+      ]
+    },
+    {
+      "id": "collocation",
+      "label": "常用搭配",
+      "minDuration": 6,
+      "voice": [
+        {
+          "lang": "en",
+          "text": "give a presentation"
+        },
+        {
+          "lang": "zh",
+          "text": "做一次展示汇报。"
+        }
+      ]
+    },
+    {
+      "id": "example",
+      "label": "例句跟读",
+      "minDuration": 8,
+      "voice": [
+        {
+          "lang": "en",
+          "text": "Our group gives a presentation on healthy school lunches.",
+          "role": "example",
+          "rate": 0
+        },
+        {
+          "lang": "zh",
+          "text": "我们小组做了一次关于健康校园午餐的展示汇报。"
+        }
+      ]
+    },
+    {
+      "id": "exam",
+      "label": "易错提醒",
+      "minDuration": 6,
+      "voice": [
+        {
+          "lang": "zh",
+          "text": "展示汇报可以包含口头讲解，不只是一份幻灯片。本课重在理解。"
+        }
+      ]
+    },
+    {
+      "id": "quiz",
+      "label": "三秒小测",
+      "minDuration": 8,
+      "voice": [
+        {
+          "lang": "zh",
+          "text": "刚学的展示搭配，是什么意思？"
+        },
+        {
+          "lang": "zh",
+          "text": "选第三项，做一次展示汇报。",
+          "role": "answer",
+          "pauseBefore": 3
+        }
+      ]
+    },
+    {
+      "id": "ending",
+      "label": "今天记住了",
+      "minDuration": 2,
+      "voice": [
+        {
+          "lang": "zh",
+          "text": "下一期，说说今天的心情。"
+        }
+      ]
+    }
+  ]
+}

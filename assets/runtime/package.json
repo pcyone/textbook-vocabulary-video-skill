@@ -1,0 +1,10 @@
+{
+  "name": "knowledge-paper-template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portable vocabulary-microcourse-v1 runtime",
+  "scripts": {"start": "remotion studio src/microcourse/index.tsx", "typecheck": "tsc --noEmit"},
+  "engines": {"node": ">=22"},
+  "dependencies": {"@remotion/cli": "4.0.489", "react": "19.2.7", "react-dom": "19.2.7", "remotion": "4.0.489"},
+  "devDependencies": {"@types/react": "19.2.14", "@types/react-dom": "19.2.3", "typescript": "5.9.3"}
+}

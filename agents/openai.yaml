@@ -1,0 +1,6 @@
+interface:
+  display_name: "教材词汇自动化视频"
+  short_description: "将指定教材词汇分期制作成竖屏视频，含中英配音、字幕、小测和发布文案"
+  default_prompt: "使用 $textbook-vocabulary-video，沿用已确认的教材词汇模板，完成我指定的 EP 范围，并交付视频、字幕和视频号发布文案。"
+policy:
+  allow_implicit_invocation: true
