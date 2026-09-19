@@ -21,4 +21,9 @@ node scripts/workflow.mjs check --project /path/to/project --unit unit02 u2-21-p
 
 参见 [Skill 入口](SKILL.md)、[内容约定](references/content.md)、[交付门禁](references/acceptance.md)。
 
+## 完整中文教程
+
+- [中文使用教程](docs/中文使用教程.md)：安装配置、首条样片、批量制作、续做修改、交付与迁移。
+- [中文 Skill 工作流教程](docs/中文SKILL工作流教程.md)：设计分层、源稿结构、配音时间线、渲染验收、测试和分发。
+
 已验证：7 项自动测试通过；对 EP21–EP25 既有成片完成只读交付验证；在独立目录安装锁定依赖、通过 TypeScript 检查，并用 EP21 已有音频完成九场景、36 帧渲染检查。测试未重新调用付费配音接口，也不代表所有操作系统字体已经验收。
